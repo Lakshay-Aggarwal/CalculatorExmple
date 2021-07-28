@@ -1,0 +1,13 @@
+C:\Users\User1\source\repos\CalculatorExmple\CalculatorExmple\bin\Debug\netcoreapp3.1\CalculatorExmple.exe
+C:\Users\User1\source\repos\CalculatorExmple\CalculatorExmple\bin\Debug\netcoreapp3.1\CalculatorExmple.deps.json
+C:\Users\User1\source\repos\CalculatorExmple\CalculatorExmple\bin\Debug\netcoreapp3.1\CalculatorExmple.runtimeconfig.json
+C:\Users\User1\source\repos\CalculatorExmple\CalculatorExmple\bin\Debug\netcoreapp3.1\CalculatorExmple.runtimeconfig.dev.json
+C:\Users\User1\source\repos\CalculatorExmple\CalculatorExmple\bin\Debug\netcoreapp3.1\CalculatorExmple.dll
+C:\Users\User1\source\repos\CalculatorExmple\CalculatorExmple\bin\Debug\netcoreapp3.1\CalculatorExmple.pdb
+C:\Users\User1\source\repos\CalculatorExmple\CalculatorExmple\obj\Debug\netcoreapp3.1\CalculatorExmple.csproj.AssemblyReference.cache
+C:\Users\User1\source\repos\CalculatorExmple\CalculatorExmple\obj\Debug\netcoreapp3.1\CalculatorExmple.AssemblyInfoInputs.cache
+C:\Users\User1\source\repos\CalculatorExmple\CalculatorExmple\obj\Debug\netcoreapp3.1\CalculatorExmple.AssemblyInfo.cs
+C:\Users\User1\source\repos\CalculatorExmple\CalculatorExmple\obj\Debug\netcoreapp3.1\CalculatorExmple.csproj.CoreCompileInputs.cache
+C:\Users\User1\source\repos\CalculatorExmple\CalculatorExmple\obj\Debug\netcoreapp3.1\CalculatorExmple.dll
+C:\Users\User1\source\repos\CalculatorExmple\CalculatorExmple\obj\Debug\netcoreapp3.1\CalculatorExmple.pdb
+C:\Users\User1\source\repos\CalculatorExmple\CalculatorExmple\obj\Debug\netcoreapp3.1\CalculatorExmple.genruntimeconfig.cache
