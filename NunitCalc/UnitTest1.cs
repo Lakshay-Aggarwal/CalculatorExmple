@@ -18,9 +18,9 @@ namespace Tests_Nunit
         }
 
 
-        [TestCase(25, 8, 17)]
+        [TestCase(25, 18, 7)]
         [TestCase(-200, -8, -192)]
-        [TestCase(-200, 6, -206)]
+        [TestCase(-200, 4, -204)]
         public void Subtraction_Tests(double a, double b, double c)
         {
             Assert.AreEqual(c, MyCalApp.Subtraction(a, b));
