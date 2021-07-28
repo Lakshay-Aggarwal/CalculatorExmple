@@ -4,7 +4,7 @@ using CalculatorExmple;
 namespace Tests_Nunit
 {
     [TestFixture]
-    public class Tests
+    public class Testsi
     {
 
         [TestCase(3, 8, 11)]
@@ -20,14 +20,14 @@ namespace Tests_Nunit
 
         [TestCase(25, 8, 17)]
         [TestCase(-200, -8, -192)]
-        [TestCase(-200, 8, -208)]
+        [TestCase(-200, 6, -206)]
         public void Subtraction_Tests(double a, double b, double c)
         {
             Assert.AreEqual(c, MyCalApp.Subtraction(a, b));
         }
 
         [TestCase(5, 4, 20)]
-        [TestCase(8, 6, 48)]
+        [TestCase(3, 6, 18)]
         [TestCase(7, 7, 49)]
         public void Multiplication_Test(double a, double b, double c)
         {
